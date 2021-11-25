@@ -18,3 +18,7 @@
 ## RESULTS, ANALYSIS, & SUMMARY
 
 A Tableau story can be accessed by clicking [here](https://public.tableau.com/shared/C6G9H6C48?:display_count=n&:origin=viz_share_link).
+
+### DATA HIGHLIGHTS
+
+![alt_text](https://public.tableau.com/views/CitiBike_Challenge_16377649164700/CitiBikeDashboard-1?:language=en-US&:display_count=n&:origin=viz_share_link)
