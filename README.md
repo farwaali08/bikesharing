@@ -22,7 +22,7 @@ A Tableau story can be accessed by clicking [here](https://public.tableau.com/sh
 
 ### DATA HIGHLIGHTS
 
-![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/1.png)
+![alt_text](https://github.com/farwaali08/bikesharing/blob/7854d5e434f317b0b48bcd5f82acbe96852be588/Images/HIGHLIGHTS.png)
 
 ### TRIPS BY WEEKDAY PER HOUR
 
