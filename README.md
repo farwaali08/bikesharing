@@ -24,7 +24,7 @@ A Tableau story can be accessed by clicking [here](https://public.tableau.com/sh
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/7854d5e434f317b0b48bcd5f82acbe96852be588/Images/HIGHLIGHTS.png)
 
-The highlights from this analysis include an impressive ridership
+The highlights from this analysis include an impressive ridership number and dedicated subscriber base. Over `2.3 million` rides were recorded in August 2019, which is typically the most profitable month. Over `81%` of all users are subscribers, which indicate that they utilize CitiBike services often
 
 ### TRIPS BY WEEKDAY PER HOUR
 
