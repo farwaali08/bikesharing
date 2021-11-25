@@ -17,12 +17,14 @@
 
 ## RESULTS, ANALYSIS, & SUMMARY
 
-A Tableau story can be accessed by clicking [here](https://public.tableau.com/shared/C6G9H6C48?:display_count=n&:origin=viz_share_link).
+A Tableau story can be accessed by clicking [here](https://public.tableau.com/shared/C6G9H6C48?:display_count=n&:origin=viz_share_link), and can be utilized for an interactive experience.
 
 
 ### DATA HIGHLIGHTS
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/7854d5e434f317b0b48bcd5f82acbe96852be588/Images/HIGHLIGHTS.png)
+
+The highlights from this analysis include an impressive ridership
 
 ### TRIPS BY WEEKDAY PER HOUR
 
@@ -32,7 +34,7 @@ A Tableau story can be accessed by clicking [here](https://public.tableau.com/sh
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/7.png)
 
-###STARTING & ENDING LOCATIONS
+### STARTING & ENDING LOCATIONS
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/3.png)
 
