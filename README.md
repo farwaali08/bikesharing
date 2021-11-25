@@ -19,18 +19,27 @@
 
 A Tableau story can be accessed by clicking [here](https://public.tableau.com/shared/C6G9H6C48?:display_count=n&:origin=viz_share_link).
 
+
 ### DATA HIGHLIGHTS
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/1.png)
 
+### TRIPS BY WEEKDAY PER HOUR
+
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/2.png)
 
+### USER CHECKOUT TIMES
+
+![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/7.png)
+
+###STARTING & ENDING LOCATIONS
+
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/3.png)
+
+### GENDER ANALYSIS
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/4.png)
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/5.png)
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/6.png)
-
-![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/7.png)
