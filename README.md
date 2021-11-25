@@ -24,7 +24,11 @@ A Tableau story can be accessed by clicking [here](https://public.tableau.com/sh
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/7854d5e434f317b0b48bcd5f82acbe96852be588/Images/HIGHLIGHTS.png)
 
-The highlights from this analysis include an impressive ridership number and dedicated subscriber base. Over `2.3 million` rides were recorded in August 2019, which is typically the most profitable month. Over `81%` of all users are subscribers, which indicate that they utilize CitiBike services often
+The highlights from this analysis include an impressive ridership number and dedicated subscriber base. Over `2.3 million` rides were recorded in August 2019, which is typically the most profitable month. Over `81%` of all users are subscribers, which indicates that CitiBike services are utilized often enough to warrant a subscription, and are in-demand. All are important when considering bike-sharing programs for other cities, 
+
+Also included in the highlights is the peak hour data for the month. Ridership remains fairly steady from 7 AM to 8 PM, with peaks during the morning and evening rush hours (8AM-9M and 4PM-7PM, respectively).
+
+The data so far has indicated that the program is successful
 
 ### TRIPS BY WEEKDAY PER HOUR
 
