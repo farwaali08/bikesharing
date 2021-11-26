@@ -12,6 +12,8 @@ This analysis of bike-sharing data was prepared for investors looking to begin a
 * **User demographics**
   * Who is using this service? 
 
+Data was obtained from CitiBike (see under Tools and Resources) and transformed using Python/Pandas. Tableau Public was used to create the graphics.
+
 ## TOOLS & RESOURCES
 
 ### DATA
