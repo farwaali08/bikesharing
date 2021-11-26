@@ -1,4 +1,4 @@
-# bikesharing
+# bikesharing :bike:
 
 ## OVERVIEW
 
