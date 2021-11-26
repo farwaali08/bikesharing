@@ -63,7 +63,7 @@ The above map displays the starting and ending locations. The size and intensity
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/4.png)
 
-Both graphics above indicate that the overall customer base is largely male-identifying, with over `65%`, of roughly two-thirds of all users identifying as males. The subscriber base is predominantly male as well.
+Both graphics above indicate that the overall customer base is largely male-identifying, with over `65%`, or roughly two-thirds of all users identifying as males. The subscriber base is predominantly male as well.
 
 Subscribers tend to utilize the service more on weekdays, with Thursday being the busiest day, whereas non-subscribing users tend to use the service more on the weekends. As mentioned in the "Trips by Weekday Per Hour" map, the busiest times correspond with commuter rush hours, so perhaps the subscriber base utilizes the service as a means to commute to work. The non-subscribing users are more likely to be tourists, especially on weekends.
 
