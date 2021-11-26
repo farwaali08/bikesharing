@@ -15,7 +15,7 @@
 * Jupyter Notebook
 * Tableau Public
 
-## RESULTS, ANALYSIS, & SUMMARY
+## RESULTS & ANALYSIS
 
 A Tableau story can be accessed by clicking [here](https://public.tableau.com/shared/C6G9H6C48?:display_count=n&:origin=viz_share_link), and can be utilized for an interactive experience.
 
@@ -45,6 +45,8 @@ The User Checkout Times graphic displays the number of trips by duration, and in
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/3.png)
 
+The above map displays the starting and ending locations. The size and intensity of the markers correspond to the relative number of trips that started or ended at those locations. The data indicates that usage is higher in dense, Metropolitan areas, especially popular tourist areas, such as Manhattan. Bike usage is comparatively lower in the surrounding boroughs, which are generally suburban areas.
+
 ### GENDER ANALYSIS
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/4.png)
@@ -55,4 +57,4 @@ A cross-analysis of the Trips by Gender (Weekday per Hour) by User Type. The use
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/6.png)
 
-
+## SUMMARY & NEXT STEPS
