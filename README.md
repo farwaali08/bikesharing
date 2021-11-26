@@ -2,6 +2,16 @@
 
 ## OVERVIEW
 
+This analysis of bike-sharing data was prepared for investors looking to begin a similar program in Des Moines, Iowa. It features CitiBike data from New York City in August 2019, and aims to address the following:
+
+* **When the service is utilized**
+  * What are the peak times?
+  * How does ridership vary throughout the week?
+* **How regionality impacts ridership**
+  * How does ridership vary amongst different city types? 
+* **User demographics**
+  * Who is using this service? 
+
 ## TOOLS & RESOURCES
 
 ### DATA
