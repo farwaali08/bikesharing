@@ -51,7 +51,7 @@ The heatmap for Trips by Weekday Per Hour further demonstrates that the on-peak 
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/7.png)
 
-The User Checkout Times graphic displays the number of trips by duration, and indicates that the vast majority of rides are under 20 minutes in length, with a peak at around 10 minutes. The number of rides drops dramatically around the 30-minute mark, which is likely due to the [surcharge](https://help.citibikenyc.com/hc/en-us/articles/360032024912-How-long-can-I-keep-a-bike-out-) that is applied after 30 minutes of usage (and of course, the mechanics of
+The User Checkout Times graphic displays the number of trips by duration, and indicates that the vast majority of rides are under 20 minutes in length, with a peak at around 10 minutes. The number of rides drops dramatically around the 30-minute mark, which is likely due to the [surcharge](https://help.citibikenyc.com/hc/en-us/articles/360032024912-How-long-can-I-keep-a-bike-out-) that is applied after 30 minutes of usage (and of course, the mechanics of riding a bike for that duration).
 
 ### STARTING & ENDING LOCATIONS
 
@@ -77,4 +77,13 @@ This figure is an intersection between gender the User Checkout Times. Interesti
 
 ## SUMMARY & NEXT STEPS
 
-The data analyzed was taken from a pre-COVID period, and it would be interesting to examine how COVID has impacted bike sharing, especially in smaller cities and suburban areas. [Studies](https://www.sciencedirect.com/science/article/pii/S2590198221000609) indicate that generally, ridership has increased throughout the pandemic, which they suggest is due to an increasing weariness of public transportation systems.
+It is apparent from the data that this bike-sharing program is successful, given the high volume of users, and loyal subscribers. However, the data is taken from one of the world's largest metropolitan cities during the busiest month--for this reason, further analysis will be required to determine how this will translate over to Des Moines. The following are questions and considerations that should be addressed:
+
+ * A similar analysis of bike-sharing data during an off-peak month to determine the "highs" and "lows"
+ * An analysis of yearly data to identify seasonal trends, if any
+ * How the weather impacts these programs
+ * How infrastructure impacts these programs
+   * Example: the presence or absence of dedicate bike routes/bike lanes 
+ * The tourism industry in New York is far more [robust](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city) than it is in Iowa. It would be worthwhile to determine the percentage of users that are tourists, to see how tourism affects these programs.
+
+Additionally, the data analyzed was taken from a pre-COVID period, and it would be interesting to examine how COVID has impacted bike sharing, especially in smaller cities and suburban areas. Some [studies](https://www.sciencedirect.com/science/article/pii/S2590198221000609) indicate that generally, ridership has increased throughout the pandemic, which they suggest is due to an increasing weariness of public transportation systems. [Others](https://www.samschwartz.com/staff-reflections/2020/10/7/shifting-gears-citi-bike-demographics-change-with-ridership-increases) mention that the pandemic has caused a sharp increase in female ridership as well. Regardless of the type of change, COVID has altered the way these programs work, so an analysis of more recent data is warranted.
