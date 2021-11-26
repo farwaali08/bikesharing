@@ -33,13 +33,13 @@ Also included in the highlights is the peak hour data for the month. Ridership r
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/2.png)
 
-The heatmap for Trips by Weekday Per Hour further demonstrates that the on-peak times established with the previous map correspond with commuter rush hours, as most activity is observed on weekdays during these times, particularly on Thursday's. There is consistent usage of this service on weekends as well, with the peak times between 10 AM and 12 PM. Interestingly, the usage during Wednesday's evening rush-hour is lower than the other weekdays, and it may be worthwhile to explore to increase ridership on this day.
+The heatmap for Trips by Weekday Per Hour further demonstrates that the on-peak times established with the previous map correspond with commuter rush hours, as most activity is observed on weekdays during these times. There is consistent usage of this service on weekends as well, with the peak times between 10 AM and 12 PM. Interestingly, the usage during Wednesday's evening rush-hour is lower than the other weekdays, and it may be worthwhile to explore to increase ridership on this day.
 
 ### USER CHECKOUT TIMES
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/7.png)
 
-The User Checkout Times graphic displays number of trips by duration, and indicates that the vast majority of rides are under 20 minutes in length. The number of rides drops dramatically under the 30-minute mark, which is likely due to the [surcharge](https://help.citibikenyc.com/hc/en-us/articles/360032024912-How-long-can-I-keep-a-bike-out-) applied after 30 minutes of usage.
+The User Checkout Times graphic displays the number of trips by duration, and indicates that the vast majority of rides are under 20 minutes in length. The number of rides drops dramatically around the 30-minute mark, which is likely due to the [surcharge](https://help.citibikenyc.com/hc/en-us/articles/360032024912-How-long-can-I-keep-a-bike-out-) that is applied after 30 minutes of usage.
 
 ### STARTING & ENDING LOCATIONS
 
