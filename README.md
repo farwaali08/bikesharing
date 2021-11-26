@@ -83,7 +83,7 @@ It is apparent from the data that this bike-sharing program is successful, given
  * An analysis of yearly data to identify seasonal trends, if any
  * How the weather impacts these programs
  * How infrastructure impacts these programs
-   * Example: the presence or absence of dedicate bike routes/bike lanes 
+   * Example: the presence or absence of dedicated bike routes/bike lanes 
  * The tourism industry in New York is far more [robust](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city) than it is in Iowa. It would be worthwhile to determine the percentage of users that are tourists, to see how tourism affects these programs.
 
 Additionally, the data analyzed was taken from a pre-COVID period, and it would be interesting to examine how COVID has impacted bike sharing, especially in smaller cities and suburban areas. Some [studies](https://www.sciencedirect.com/science/article/pii/S2590198221000609) indicate that generally, ridership has increased throughout the pandemic, which they suggest is due to an increasing weariness of public transportation systems. [Others](https://www.samschwartz.com/staff-reflections/2020/10/7/shifting-gears-citi-bike-demographics-change-with-ridership-increases) mention that the pandemic has caused a sharp increase in female ridership as well. Regardless of the type of change, COVID has altered the way these programs work, so an analysis of more recent data is warranted.
