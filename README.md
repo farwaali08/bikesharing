@@ -33,13 +33,13 @@ Also included in the highlights is the peak hour data for the month. Ridership r
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/2.png)
 
-The heatmap for Trips by Weekday Per Hour further demonstrates that the on-peak times established with the previous map correspond with commuter rush hours, as most activity is observed on weekdays during these times. There is consistent usage of this service on weekends as well, with the peak times between 10 AM and 12 PM. Interestingly, the usage during Wednesday's evening rush-hour is lower than the other weekdays, and it may be worthwhile to explore to increase ridership on this day.
+The heatmap for Trips by Weekday Per Hour further demonstrates that the on-peak times established in the previous map correspond with commuter rush hours, as most activity is observed on weekdays during these times. There is consistent usage of this service on weekends as well, with the peak times between 10 AM and 12 PM. Interestingly, the usage during Wednesday's evening rush-hour is lower than the other weekdays, and it may be worthwhile to explore to increase ridership on this day.
 
 ### USER CHECKOUT TIMES
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/7.png)
 
-The User Checkout Times graphic displays the number of trips by duration, and indicates that the vast majority of rides are under 20 minutes in length. The number of rides drops dramatically around the 30-minute mark, which is likely due to the [surcharge](https://help.citibikenyc.com/hc/en-us/articles/360032024912-How-long-can-I-keep-a-bike-out-) that is applied after 30 minutes of usage.
+The User Checkout Times graphic displays the number of trips by duration, and indicates that the vast majority of rides are under 20 minutes in length, with a peak at around 10 minutes. The number of rides drops dramatically around the 30-minute mark, which is likely due to the [surcharge](https://help.citibikenyc.com/hc/en-us/articles/360032024912-How-long-can-I-keep-a-bike-out-) that is applied after 30 minutes of usage (and of course, the mechanics of
 
 ### STARTING & ENDING LOCATIONS
 
@@ -51,10 +51,18 @@ The above map displays the starting and ending locations. The size and intensity
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/4.png)
 
+Both graphics above indicate that the overall customer base is largely male-identifying, with over `65%`, of roughly two-thirds of all users identifying as males. The subscriber base is predominantly male as well.
+
+Subscribers tend to utilize the service more on weekdays, with Thursday being the busiest day, whereas non-subscribing users tend to use the service more on the weekends. As mentioned in the "Trips by Weekday Per Hour" map, the busiest times correspond with commuter rush hours, so perhaps the subscriber base utilizes the service as a means to commute to work. The non-subscribing users are more likely to be tourists, especially on weekends.
+
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/5.png)
 
-A cross-analysis of the Trips by Gender (Weekday per Hour) by User Type. The users are probably tourists, and not subscribers.
+The figure above is essentially an intersection between gender and the "Trips by Weekday Per Hour" map. Male-identifying users dominate this graph, which makes sense, as they are the largest group of customers.
 
 ![alt_text](https://github.com/farwaali08/bikesharing/blob/ece047f91dc26cd2846b2d1c2404a34d99a4c783/Images/6.png)
 
+This figure is an intersection between gender the User Checkout Times. Interestingly, while the male category is larger in magnitude, both male and female groups follow a similar trend, and have the same peak at around 10 minutes. The Unknown category also has a slight peak at around 10 minutes, but overall follows a different usage pattern.
+
 ## SUMMARY & NEXT STEPS
+
+The data analyzed was taken from a pre-COVID period, and it would be interesting to examine how COVID has impacted bike sharing, especially in smaller cities and suburban areas. [Studies](https://www.sciencedirect.com/science/article/pii/S2590198221000609) indicate that generally, ridership has increased throughout the pandemic, which they suggest is due to an increasing weariness of public transportation systems.
